@@ -1,0 +1,13 @@
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/Oct/2023:18:04:29 +0000] \"POST /user/login HTTP/1.1\" 200 226 \"-\" \"PostmanRuntime/7.33.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/Oct/2023:18:59:19 +0000] \"GET /User/6522f440a51171959ea11572 HTTP/1.1\" 200 476 \"-\" \"-\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/Oct/2023:18:59:40 +0000] \"GET /User/6522f440a51171959ea11572 HTTP/1.1\" 200 476 \"-\" \"PostmanRuntime/7.33.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/Oct/2023:19:00:32 +0000] \"GET /User/6522f440a51171959ea11572 HTTP/1.1\" 200 476 \"-\" \"-\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/Oct/2023:19:01:38 +0000] \"GET /User/6522f440a51171959ea11572 HTTP/1.1\" 200 476 \"-\" \"-\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/Oct/2023:19:02:14 +0000] \"GET /User/6522f440a51171959ea11572 HTTP/1.1\" 200 476 \"-\" \"-\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/Oct/2023:19:03:46 +0000] \"GET /loan/6523931594d5f0e874e97bb8 HTTP/1.1\" 200 328 \"-\" \"PostmanRuntime/7.33.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/Oct/2023:19:05:06 +0000] \"GET /User/6522f440a51171959ea11572 HTTP/1.1\" 200 476 \"-\" \"-\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/Oct/2023:19:05:06 +0000] \"GET /loan/6523931594d5f0e874e97bb8 HTTP/1.1\" 200 328 \"-\" \"-\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/Oct/2023:19:08:28 +0000] \"POST /user/login HTTP/1.1\" 200 226 \"-\" \"PostmanRuntime/7.33.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/Oct/2023:19:08:41 +0000] \"GET /User/6522f440a51171959ea11572 HTTP/1.1\" 200 476 \"-\" \"-\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/Oct/2023:19:08:41 +0000] \"GET /loan/6523931594d5f0e874e97bb8 HTTP/1.1\" 200 328 \"-\" \"-\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/Oct/2023:19:08:41 +0000] \"POST /User/login HTTP/1.1\" 200 226 \"-\" \"-\""}
